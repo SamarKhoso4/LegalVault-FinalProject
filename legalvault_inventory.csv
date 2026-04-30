@@ -1,0 +1,5 @@
+file_name,folder,document_type,sensitivity,suggested_access
+document-retention-policy.txt,Policies,Office Policy,Internal,"Attorney, Paralegal, Receptionist"
+sample-client-intake.txt,Intake,Client Intake Form,Confidential,"Attorney, Paralegal, Receptionist"
+sample-client-letter.txt,Clientletters,Client Letter,Confidential,"Attorney, Paralegal"
+sample-case-note.txt,Casenotes,Case Note,Highly Confidential,"Attorney, Paralegal"
