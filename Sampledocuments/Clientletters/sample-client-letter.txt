@@ -1,0 +1,7 @@
+Sample Client Letter
+
+Dear Client,
+
+This confirms that your intake form has been received for review.
+
+This is a fake sample letter for a course project.

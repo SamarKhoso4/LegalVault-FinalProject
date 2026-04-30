@@ -1,0 +1,7 @@
+Sample Client Intake Form
+
+Client Name: Jane Doe
+Matter Type: Housing Dispute
+Date Opened: April 30, 2026
+
+This is a fake sample document for a course project.

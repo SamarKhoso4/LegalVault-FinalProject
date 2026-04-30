@@ -1,0 +1,5 @@
+Document Retention Policy
+
+Legal documents should be stored only in approved folders. Sensitive files should not be public.
+
+This is a sample policy for a course project.
